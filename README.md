@@ -41,7 +41,11 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
 
-
+### 🏫 Academies 
+![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<br>
+<br>
 
 
 
