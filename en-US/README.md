@@ -2,7 +2,7 @@
 
 My name is **Miguel José**, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn to the vast world and job versatility it offers. I began my journey in FrontEnd development due to my fascination with design and user interaction.
 
-I started my learning journey by using online videos and [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#-certifications).
+I started my learning journey by using online videos and [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#-certifications).
 
 # 🔝 Top Contributed Repo
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -36,9 +36,14 @@ I started my learning journey by using online videos and [![FreeCodeCamp](https:
 # :telephone: Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
+### 🏫 Academias 
+![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<br>
+<br>
+
 
 ---
-
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borgesmj19)
 
