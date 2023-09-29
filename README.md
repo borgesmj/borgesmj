@@ -8,9 +8,10 @@ Entre mis proyectos, se destacan mi portfolio web personal, una version inicial 
 
 Estoy buscando cada vez mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [recomendarlo](https://github.com/borgesmj/borgesmj/issues)
 
-## Proyectos
-### web Apps
-### Repositorios de practica y aprendizaje
+## Proyectos y repositorios
+### Web Apps
+* 
+### Repositorios de práctica y aprendizaje
 
 ## Certificaciones
 * [Responsive Web Design, by FreeCodeCamp](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
@@ -38,10 +39,6 @@ Estoy buscando cada vez mas proyectos y ejercicios para poder ampliar mis conoci
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=borgesmj&icon=0&color=0)](https://visitcount.itsvg.in)
 
