@@ -2,7 +2,7 @@
 
 My name is **Miguel José**, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn to the vast world and job versatility it offers. I began my journey in FrontEnd development due to my fascination with design and user interaction.
 
-I started my learning journey by using online videos and [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#clipboard-certifications).
+I started my learning journey by using online videos and [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#-certifications).
 
 # 🔝 Top Contributed Repo
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -23,7 +23,7 @@ I started my learning journey by using online videos and [![FreeCodeCamp](https:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-# :clipboard: Certifications
+# 📋 Certifications
 * [**Responsive Web Design, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
 * [**JavaScript Algorithms and Data Structures, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/javascript-algorithms-and-data-structures)
 * [**English level test, by EF**](https://www.efset.org/cert/uGmFbo)
