@@ -13,6 +13,12 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 
 :arrow_right: [**Ver todos**](https://github.com/borgesmj?tab=repositories) :arrow_left:
 
+# 📊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesmj&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,8 +26,6 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-
 
 # Certificaciones
 * [**Responsive Web Design, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
@@ -37,10 +41,6 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](**borgesmj19@gmail.com)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
@@ -51,5 +51,7 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=borgesmj&icon=6&color=3)](https://visitcount.itsvg.in)
+
+
 
 
