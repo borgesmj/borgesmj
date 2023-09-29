@@ -18,7 +18,7 @@ Estoy buscando cada vez mas proyectos y ejercicios para poder ampliar mis conoci
 * [JavaScript Algorithms and Data Structures, by FreeCodeCamp](https://www.freecodecamp.org/certification/borgesmj19/javascript-algorithms-and-data-structures)
 * [Responsive Web Design, by FreeCodeCamp](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codin_hauss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)
 
 # 💻 Tech Stack:
