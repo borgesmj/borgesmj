@@ -6,7 +6,7 @@ Comienzo a estudiar utilizando videos que consigo en internet y con [FreeCodeCam
 
 Entre mis proyectos, se destacan mi portfolio web personal, una version inicial con HTML y CSS estático, el cual voy versionando hasta llevarlo a la version actual, con React, React-Router-DOM, juegos como el Bingo y de Memoria, una To-Do List y un clon de Twitter. Con mi experiencia y habilidades en desarrollo FrontEnd, me considero preparado para enfrentar nuevos desafíos y proyectos en el campo de la tecnología.
 
-Estoy buscando cada vez mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [recomendarlo](https://github.com/borgesmj/borgesmj/issues)
+Estoy buscando cada vez mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [recomendarlo](https://github.com/borgesmj/borgesmj/issues/new)
 
 ## Proyectos y repositorios
 ### Web Apps
