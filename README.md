@@ -4,7 +4,7 @@
 
 Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
 
-Comienzo a estudiar utilizando videos que consigo en internet y con [![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19) llegando a obtener mis primeras dos [**CERTIFICACIONES**](https://github.com/borgesmj/borgesmj/tree/main#-certificaciones)
+Comienzo a estudiar utilizando videos que consigo en internet y con [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19) llegando a obtener mis primeras dos [**CERTIFICACIONES**](https://github.com/borgesmj/borgesmj/tree/main#-certificaciones)
 
 Entre mis proyectos, se destacan mi portfolio web personal, una version inicial con HTML y CSS estático, el cual voy versionando hasta llevarlo a la version actual, con React, React-Router-DOM, juegos como el Bingo y de Memoria, una To-Do List y un clon de Twitter. Con mi experiencia y habilidades en desarrollo FrontEnd, me considero preparado para enfrentar nuevos desafíos y proyectos en el campo de la tecnología.
 
