@@ -1,5 +1,7 @@
 # Hola, bienvenido 👋
 
+[English](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md)
+
 Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
 
 Comienzo a estudiar utilizando videos que consigo en internet y con [![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19) llegando a obtener mis primeras dos [**CERTIFICACIONES**](https://github.com/borgesmj/borgesmj/tree/main#-certificaciones)
