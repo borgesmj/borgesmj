@@ -9,6 +9,12 @@ I started my learning journey by using online videos and [![FreeCodeCamp](https:
 
 :arrow_right: [**See all**](https://github.com/borgesmj?tab=repositories) :arrow_left:
 
+# 📊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesmj&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,10 +36,6 @@ I started my learning journey by using online videos and [![FreeCodeCamp](https:
 # :telephone: Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesmj19@gmail.com)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
