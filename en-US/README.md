@@ -36,7 +36,7 @@ I started my learning journey by using online videos and [**FREECODECAMP**](http
 # :telephone: Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
-### 🏫 Academias 
+### 🏫 Academies 
 ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 <br>
