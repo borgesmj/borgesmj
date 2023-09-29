@@ -38,7 +38,7 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)
 
 # :telephone: Contacto
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](**borgesmj19@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
 
 
