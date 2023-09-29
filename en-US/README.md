@@ -2,7 +2,7 @@
 
 My name is **Miguel José**, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn to the vast world and job versatility it offers. I began my journey in FrontEnd development due to my fascination with design and user interaction.
 
-I started my learning journey by using online videos and [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/edit/main/README.md#certificaciones).
+I started my learning journey by using online videos and [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#certifications).
 
 # 🔝 Top Contributed Repo
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
