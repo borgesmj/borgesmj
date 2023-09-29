@@ -34,7 +34,7 @@ I started my learning journey by using online videos and [![FreeCodeCamp](https:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)
 
 # :telephone: Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesmj19@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
 
 ---
