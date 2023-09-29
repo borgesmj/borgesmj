@@ -27,7 +27,7 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-# 	:clipboard: Certificaciones
+# 📋 Certificaciones
 * [**Responsive Web Design, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
 * [**JavaScript Algorithms and Data Structures, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/javascript-algorithms-and-data-structures)
 * [**English level test, by EF**](https://www.efset.org/cert/uGmFbo)
