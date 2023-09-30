@@ -2,9 +2,13 @@
 
 [Ir a version en español](https://github.com/borgesmj/borgesmj/#readme)
 
-My name is **Miguel José**, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn to the vast world and job versatility it offers. I began my journey in FrontEnd development due to my fascination with design and user interaction.
+My name is Miguel José, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn by the vast world of possibilities and job versatility. I began my journey in FrontEnd development due to my fascination with design and user interaction
 
 I started my learning journey by using online videos and [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19), eventually earning my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#-certifications).
+
+Among my projects, my personal web portfolio stands out. It started as a simple static HTML and CSS version and evolved into its current form using React, React-Router-DOM, and includes games like Bingo and Memory, a To-Do List, and a Twitter clone. With my experience and FrontEnd development skills, I consider myself well-prepared to take on new challenges and projects in the field of technology.
+
+I am always on the lookout for more projects and exercises to expand my knowledge, so if you have one in mind, don't hesitate to [recommend it](https://github.com/borgesmj/borgesmj/issues/new).
 
 # 🔝 Top Contributed Repo
 ![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
