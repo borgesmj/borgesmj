@@ -1,6 +1,7 @@
 # Hola, bienvenido 👋
 
-[English](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md)
+[Go to english](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md)
+
 
 Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
 
@@ -28,6 +29,10 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+# 👨‍💻 Tecnoligias utilizadas en mi Portfolio web 
+Puede visitarlo dando click en el [enlace](https://borgesmj.github.io/)
+La página web fue creada Utilizando `ReactJs`, y librerias tales como `React-Router-Dom` para la paginación, y tambien se utilizó `emailJs` para la pagina de contacto, la cual envia un correo directo a mi bandeja de entrada
 
 # 📋 Certificaciones
 * [**Responsive Web Design, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
