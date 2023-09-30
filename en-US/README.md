@@ -32,6 +32,9 @@ I am always looking for more projects and exercises to expand my knowledge, so i
 # 👨‍💻 Technologies Used in My Web Portfolio
 You can visit it by clicking on the [link](https://borgesmj.github.io/).
 The website was created using `ReactJs`, along with libraries such as `React-Router-Dom` for page navigation. Additionally, I utilized `emailJs` for the contact page, which sends emails directly to my inbox.
+![image](https://github.com/borgesmj/borgesmj/assets/121818423/ad8c61ee-3a80-4c95-a357-5baa3956caa4)
+
+
 
 ---
 
