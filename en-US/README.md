@@ -43,27 +43,28 @@ The website was created using `ReactJs`, along with libraries such as `React-Rou
 * [**JavaScript Algorithms and Data Structures, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/javascript-algorithms-and-data-structures)
 * [**English level test, by EF**](https://www.efset.org/cert/uGmFbo)
 
+---
+
 # 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codin_hauss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj/) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)
 
+---
 # :telephone: Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
 
+---
 ### 🏫 Academies 
 ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 <br>
 <br>
-
-
 ---
 ### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borgesmj19)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ---
 
 [![Profile Visits](https://visitcount.itsvg.in/api?id=borgesmj&icon=6&color=3)](https://visitcount.itsvg.in)
