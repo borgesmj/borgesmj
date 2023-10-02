@@ -7,7 +7,7 @@ Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, e
 
 Comienzo a estudiar utilizando videos que consigo en internet y con [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19) llegando a obtener mis primeras dos [**CERTIFICACIONES**](https://github.com/borgesmj/borgesmj/tree/main#-certificaciones)
 
-Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/borgesmj/borgesmj/tree/main#-Tecnoligias-utilizadas-en-mi-Portfolio-web), una version inicial con HTML y CSS estático, el cual voy versionando hasta llevarlo a la version actual, con React, React-Router-DOM, juegos como el Bingo y de Memoria, una To-Do List y un clon de Twitter. Con mi experiencia y habilidades en desarrollo FrontEnd, me considero preparado para enfrentar nuevos desafíos y proyectos en el campo de la tecnología.
+Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/borgesmj/borgesmj/tree/main#-tecnoligias-utilizadas-en-mi-Portfolio-web), una version inicial con HTML y CSS estático, el cual voy versionando hasta llevarlo a la version actual, con React, React-Router-DOM, juegos como el Bingo y de Memoria, una To-Do List y un clon de Twitter. Con mi experiencia y habilidades en desarrollo FrontEnd, me considero preparado para enfrentar nuevos desafíos y proyectos en el campo de la tecnología.
 
 Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
 
