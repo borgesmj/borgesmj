@@ -65,8 +65,8 @@ The website was created using `ReactJs`, along with libraries such as `React-Rou
 ---
 
 
-### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borgesmj19)
+
+[![BuyMeACoffee](https://img.shields.io/badge/You%20can%20support%20my%20work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borgesmj19)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
