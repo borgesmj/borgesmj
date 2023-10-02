@@ -52,7 +52,7 @@ The website was created using `ReactJs`, along with libraries such as `React-Rou
 
 ---
 # :telephone: Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **borgesmj19@gmail.com**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=borgesmj19@gmail.com)
 
 ---
 ### 🏫 Academies 
