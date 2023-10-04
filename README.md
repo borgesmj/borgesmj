@@ -13,7 +13,7 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 
 🔭 Actualmente estiy trabajando en un proyecto de [parrilla de titulos de anime](https://github.com/borgesmj/web-anime-app), utilizando una API construida a partir de [RapidAPI](https://rapidapi.com/)
 
-Estoy abierto a cualquier oferta laboral empresarial o proyecto freelance, me puede contactar por mi [correo electrónico]()
+Estoy abierto a cualquier oferta laboral empresarial o proyecto freelance, me puede contactar por mi [correo electrónico](https://github.com/borgesmj/borgesmj/blob/ES/README.md#telephone-contacto)
 
 # 🔝 Repositorio con las principales contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
