@@ -16,6 +16,27 @@ Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocim
 
 # Todos mis repositorios
 
+| Tipo de proyecto |        **Nombre**        |                                                                              |                                                            |
+|:----------------:|:------------------------:|:----------------------------------------------------------------------------:|------------------------------------------------------------|
+|         💻        |          Pokedex         |                [Demo](https://borgesmj.github.io/pokemon-api/)               | [Código](https://github.com/borgesmj/pokemon-api)          |
+|         💻        |      Tienda Virtual      |              [Demo](https://borgesmj.github.io/tienda-virtual/)              | [Código](https://github.com/borgesmj/tienda-virtual)       |
+|         🎮        |    Juego del Ahorcado    |            [Demo](https://borgesmj.github.io/juego-del-ahorcado/)            | [Código](https://github.com/borgesmj/juego-del-ahorcado)   |
+|        🧑‍🎓        |    Palindrome Checker    |            [Demo](https://borgesmj.github.io/palindrome-checker/)            | [Código](https://github.com/borgesmj/palindrome-checker)   |
+|        🧑‍🎓        |       Cifrado Cesar      |               [Demo](https://borgesmj.github.io/cifrado-cesar/)              | [Código](https://github.com/borgesmj/cifrado-cesar)        |
+|         💻        |         Quiz App         |                 [Demo](https://borgesmj.github.io/quiz-App/)                 | [Código](https://github.com/borgesmj/quiz-app)             |
+|         💻        |        Calculadora       |               [Demo](https://codepen.io/borgesmj/full/mdamvQE)               | [Código](https://github.com/borgesmj/calculadora)          |
+|         🎮        |     Juego de memoria     |             [Demo](https://borgesmj.github.io/juego-de-memoria/)             | [Código](https://github.com/borgesmj/juego-de-memoria)     |
+|         🎮        |        3 el linea        |                 [Demo](https://borgesmj.github.io/3enlinea/)                 | [Código](https://github.com/borgesmj/3enlinea)             |
+|         💻        |        To-do List        |                [Demo](https://borgesmj.github.io/to-do_list/)                | [Código](https://github.com/borgesmj/to-do_list )          |
+|         🎮        |           Bingo          |                   [Demo](https://borgesmj.github.io/Bingo/)                  | [Código](https://github.com/borgesmj/bingo)                |
+|        🧑‍🎓        | Ejercicios de JavaScript | [Demo](https://github.com/borgesmj/Javascript-Exercises/blob/main/README.md) | [Código](https://github.com/borgesmj/Javascript-Exercises) |
+|         💻        |       Twitter Clon       |              [Demo](https://borgesmj-twitter-clon.netlify.app/)              | [Código](https://github.com/borgesmj/twitter-clon)         |
+|         💻        |     To Do list React     |                [Demo](https://borgesmj-todo-list.netlify.app/)               |    [Código](https://github.com/borgesmj/todo-list-react)   |
+ ### Leyenda:
+ 💻  Aplicación web <br/> 
+🎮   Juego <br/> 
+🧑‍🎓  Educación <br/> 
+
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesmj&theme=dark&hide_border=false)<br>
