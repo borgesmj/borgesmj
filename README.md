@@ -11,6 +11,10 @@ Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/
 
 Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
 
+🔭 Actualmente estiy trabajando en un proyecto de [parrilla de titulos de anime](https://github.com/borgesmj/web-anime-app), utilizando una API construida a partir de [RapidAPI](https://rapidapi.com/)
+
+Estoy abierto a cualquier oferta laboral empresarial o proyecto freelance, me puede contactar por mi [correo electrónico]()
+
 # 🔝 Repositorio con las principales contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
