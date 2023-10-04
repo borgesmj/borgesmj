@@ -1,6 +1,6 @@
 # Hola, bienvenido 👋
 
-[Go to english version](https://github.com/borgesmj/borgesmj/blob/main/en-US/README.md#hello-welcome-)
+[Go to english version](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#hello-welcome-)
 
 
 Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
