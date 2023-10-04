@@ -58,7 +58,7 @@ You can view and download my curriculum vitae at the following [link](https://gi
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 # 👨‍💻 Technologies Used in My Portfolio Web 
-You can visit it by clicking on this [link](https://borgesmj.github.io/).
+You can visit it by clicking on this [link](https://borgesmj.github.io/).<br/>
 The website was created using `ReactJs` and libraries such as `React-Router-Dom` for pagination. `emailJs` was also used for the contact page, which sends emails directly to my inbox.
 ![image](https://github.com/borgesmj/borgesmj/assets/121818423/6fd656a0-71d3-463a-a400-b89fdb690959)
 
