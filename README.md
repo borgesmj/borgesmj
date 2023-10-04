@@ -4,17 +4,17 @@
 
 My name is **Miguel José**, and I'm a Mechanical Engineer who graduated in Venezuela in 2015. That's when I had my first work experience as a QA/QC Inspector. In 2023, I began studying web development full-time, driven by my fascination with the vast world of web development and its versatile career opportunities. I started my journey in FrontEnd development due to my passion for design and user interaction.
 
-I began my learning journey by watching online videos and using [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19), where I earned my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/tree/main#-certifications).
+I began my learning journey by watching online videos and using [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19), where I earned my first two [**CERTIFICATIONS**](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#-certifications).
 
-Among my projects, my [personal web portfolio](https://github.com/borgesmj/borgesmj/tree/main#-technologies-used-in-my-portfolio-web) stands out. It started as a static HTML and CSS version and evolved into its current state using React, React-Router-DOM, games like Bingo and Memory, a To-Do List, and a Twitter clone. With my experience and skills in FrontEnd development, I consider myself prepared to take on new challenges and projects in the field of technology.
+Among my projects, my [personal web portfolio](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#-technologies-used-in-my-portfolio-web) stands out. It started as a static HTML and CSS version and evolved into its current state using React, React-Router-DOM, games like Bingo and Memory, a To-Do List, and a Twitter clone. With my experience and skills in FrontEnd development, I consider myself prepared to take on new challenges and projects in the field of technology.
 
 I'm always looking for more projects and exercises to expand my knowledge, so if you have one, feel free to [**recommend it**](https://github.com/borgesmj/borgesmj/issues/new).
 
 🔭 Currently, I am working on an [anime title grid project](https://github.com/borgesmj/web-anime-app), using an API built from [RapidAPI](https://rapidapi.com/).
 
-I am open to any job offers or freelance projects. You can contact me via [email](https://github.com/borgesmj/borgesmj/blob/ES/README.md#telephone-contact).
+I am open to any job offers or freelance projects. You can contact me via [email](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#%EF%B8%8F-contact).
 
-You can view and download my curriculum vitae at the following [link](https://github.com/borgesmj/borgesmj/blob/ES/Resume/Miguel_Borges_es.pdf).
+You can view and download my curriculum vitae at the following [link](https://github.com/borgesmj/borgesmj/blob/en-US/Resume/Miguel_Borges_en.pdf).
 
 # 🔝 Repository with top contributions
 ![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
