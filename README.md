@@ -59,8 +59,8 @@ Mi curriculum Vitae lo puede ver y descargar en el siguiente [enlace](https://gi
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 # 👨‍💻 Tecnoligias utilizadas en mi Portfolio web 
-Puede visitarlo dando click en el [enlace](https://borgesmj.github.io/)
-La página web fue creada Utilizando `ReactJs`, y librerias tales como `React-Router-Dom` para la paginación, y tambien se utilizó `emailJs` para la pagina de contacto, la cual envia un correo directo a mi bandeja de entrada
+Puede visitarlo dando click en el [**enlace**](https://borgesmj.github.io/).<br/>
+La página web fue creada utilizando `ReactJs`, y librerias tales como `React-Router-Dom` para la paginación, y tambien se utilizó `emailJs` para la pagina de contacto, la cual envia un correo directo a mi bandeja de entrada
 ![image](https://github.com/borgesmj/borgesmj/assets/121818423/6fd656a0-71d3-463a-a400-b89fdb690959)
 
 
