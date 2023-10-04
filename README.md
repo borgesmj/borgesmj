@@ -11,10 +11,11 @@ Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/
 
 Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
 
-# 🔝 Top Contributed Repo
+# 🔝 Repositorio con las principales contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-:arrow_right: [**Ver todos**](https://github.com/borgesmj?tab=repositories) :arrow_left:
+# Todos mis repositorios
+
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesmj&theme=dark&hide_border=false)<br>
