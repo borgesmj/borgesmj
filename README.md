@@ -1,6 +1,6 @@
 # Hello, welcome 👋
 
-[Ir a version en español](https://github.com/borgesmj/borgesmj/#hola-bienvenido-)
+[Ir a version en español](https://github.com/borgesmj/borgesmj/blob/ES/README.md#hola-bienvenido-)
 
 My name is Miguel José, and I am a Mechanical Engineer, graduated in Venezuela in 2015. In that year, I had my first work experience as a QA/QC Inspector. In 2023, I started studying web development full-time, drawn by the vast world of possibilities and job versatility. I began my journey in FrontEnd development due to my fascination with design and user interaction
 
