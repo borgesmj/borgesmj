@@ -11,7 +11,7 @@ Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/
 
 Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
 
-🔭 Actualmente estiy trabajando en un proyecto de [parrilla de titulos de anime](https://github.com/borgesmj/web-anime-app), utilizando una API construida a partir de [RapidAPI](https://rapidapi.com/)
+🔭 Actualmente me encuentro enfocado en [proyectos personales](https://github.com/borgesmj?tab=repositories) con el objetivo de mejorar mis habilidades en programación y lógica. En este momento, estoy inmerso en el desarrollo de un proyecto relacionado con la [recopilación de títulos de anime](https://github.com/borgesmj/web-anime-app), el cual utiliza una API que he construido a partir de [RapiAPI](https://rapidapi.com/brian.rofiq/api/anime-db). Este proyecto no solo me permite aplicar mis conocimientos técnicos, sino que también me apasiona el mundo del anime, lo que lo convierte en una experiencia gratificante y divertida de aprendizaje contínuo.
 
 Estoy abierto a cualquier oferta laboral empresarial o proyecto freelance, me puede contactar por mi [correo electrónico](https://github.com/borgesmj/borgesmj/blob/ES/README.md#telephone-contacto)
 
