@@ -27,7 +27,6 @@ Mi curriculum Vitae lo puede ver y descargar en el siguiente [enlace](https://gi
 | Tipo de proyecto |        **Nombre**        |                                                                              |                                                            |
 |:----------------:|:------------------------:|:----------------------------------------------------------------------------:|------------------------------------------------------------|
 |         💻        |          Anime Web App        |                [Demo](https://borgesmj.github.io/web-anime-app/)               | [Código](https://github.com/borgesmj/web-anime-app)       |
-
 |         💻        |          Pokedex         |                [Demo](https://borgesmj.github.io/pokemon-api/)               | [Código](https://github.com/borgesmj/pokemon-api)          |
 |         💻        |      Tienda Virtual      |              [Demo](https://borgesmj.github.io/tienda-virtual/)              | [Código](https://github.com/borgesmj/tienda-virtual)       |
 |         🎮        |    Juego del Ahorcado    |            [Demo](https://borgesmj.github.io/juego-del-ahorcado/)            | [Código](https://github.com/borgesmj/juego-del-ahorcado)   |
