@@ -10,7 +10,9 @@ Among my projects, my [personal web portfolio](https://github.com/borgesmj/borge
 
 I'm always looking for more projects and exercises to expand my knowledge, so if you have one, feel free to [**recommend it**](https://github.com/borgesmj/borgesmj/issues/new).
 
-🔭 Currently, I am focused on [personal projects](https://github.com/borgesmj?tab=repositories) in order to improve my programming and logic skills. At this moment, I am deeply immersed in the development of a project related to the [compilation of anime titles](https://github.com/borgesmj/web-anime-app), which utilizes an API I've built using [RapiAPI](https://rapidapi.com/). This project not only allows me to apply my technical knowledge but also aligns with my passion for the world of anime, making it a rewarding and enjoyable experience for continuous learning.
+## Currently...
+
+🔭 I'm focused on [personal projects](https://github.com/borgesmj?tab=repositories) in order to improve my programming and logic skills. At this moment, I am immersed in the development of a project related to [improving programming logic by doing practical JavaScript exercises](https://github.com/borgesmj/Javascript-Exercises).
 
 
 I am open to any job offers or freelance projects. You can contact me via [email](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#%EF%B8%8F-contact).
@@ -24,6 +26,7 @@ You can view and download my curriculum vitae at the following [link](https://gi
 
 | Project Type |        **Name**        |                                                                              |                                                            |
 |:------------:|:----------------------:|:----------------------------------------------------------------------------:|------------------------------------------------------------|
+|         💻        |          Anime Web App        |                [Demo](https://borgesmj.github.io/web-anime-app/)               | [Código](https://github.com/borgesmj/web-anime-app)       |
 |     💻       |        Pokedex         |                [Demo](https://borgesmj.github.io/pokemon-api/)               | [Code](https://github.com/borgesmj/pokemon-api)          |
 |     💻       |    Virtual Store      |              [Demo](https://borgesmj.github.io/tienda-virtual/)              | [Code](https://github.com/borgesmj/tienda-virtual)       |
 |     🎮       |      Hangman Game    |            [Demo](https://borgesmj.github.io/juego-del-ahorcado/)            | [Code](https://github.com/borgesmj/juego-del-ahorcado)   |
