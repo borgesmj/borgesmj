@@ -1,6 +1,6 @@
 # Hello, welcome 👋
 
-[Go to Spanish version](https://github.com/borgesmj/borgesmj/blob/ES/README.md#hola-bienvenido-)
+[Ir a la versión en español](https://github.com/borgesmj/borgesmj/blob/ES/README.md#hola-bienvenido-)
 
 My name is **Miguel José**, and I'm a Mechanical Engineer who graduated in Venezuela in 2015. That's when I had my first work experience as a QA/QC Inspector. In 2023, I began studying web development full-time, driven by my fascination with the vast world of web development and its versatile career opportunities. I started my journey in FrontEnd development due to my passion for design and user interaction.
 
@@ -72,9 +72,10 @@ The website was created using `ReactJs` and libraries such as `React-Router-Dom`
 * [**English level test, by EF**](https://www.efset.org/cert/uGmFbo)
 
 # 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codin_hauss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj/) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codin_hauss)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj/) <br>
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)<br>
+![](https://www.codewars.com/users/borgesmj/badges/micro)<br>
 
 # ☎️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=borgesmj19@gmail.com)
