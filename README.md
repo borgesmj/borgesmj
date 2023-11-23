@@ -2,7 +2,15 @@
 
 ![](https://github.com/borgesmj/borgesmj/blob/ES/github-banner.png)
 
-[Go to english version](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#hello-welcome-)
+[Go to english version](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#hello-welcome
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
 Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
@@ -55,13 +63,6 @@ Mi curriculum Vitae lo puede ver y descargar en el siguiente [enlace](https://gi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 # 👨‍💻 Tecnoligias utilizadas en mi Portfolio web 
 Puede visitarlo dando click en el [**enlace**](https://borgesmj.github.io/).<br/>
