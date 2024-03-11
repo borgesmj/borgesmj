@@ -28,6 +28,9 @@ I am open to any job offers or freelance projects. You can contact me via [email
 
 You can view and download my curriculum vitae at the following [link](https://github.com/borgesmj/borgesmj/blob/en-US/Resume/Miguel_Borges_en.pdf).
 
+# New Stacks
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655fa1185145316d2561e96a?variant=dark&roadmaps=sql)](https://roadmap.sh)
+
 # 🔝 Repository with top contributions
 ![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
