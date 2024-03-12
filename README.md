@@ -22,7 +22,7 @@ Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/
 Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
 
 ## Stacks Nuevos
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655fa1185145316d2561e96a?variant=dark&roadmaps=sql)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655fa1185145316d2561e96a?variant=dark)](https://roadmap.sh)
 ##  Actualmente...
 
 🔭 Me encuentro enfocado en [proyectos personales](https://github.com/borgesmj?tab=repositories) con el objetivo de mejorar mis habilidades en programación y lógica. En este momento, estoy inmerso en el desarrollo de un proyecto relacionado con [mejoras de la logica de programacion realizando ejercicios prácticos de JavaScript](https://github.com/borgesmj/Javascript-Exercises).
