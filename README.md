@@ -1,14 +1,15 @@
 # 💫 About Me:
-## 👋 Hola! Soy Miguel Borges
-💻 Desarrollador FrontEnd con experiencia en JavaScript, React y Astro. Desde 2023, me he enfocado en crear aplicaciones web que combinan un diseño atractivo con una excelente experiencia de usuario.
+## 👋 Hi! I'm Miguel Borges
+💻 FrontEnd Developer with experience in JavaScript, React and Astro. Since 2023, I've been focused on creating web applications that combine attractive design with excellent user experience.
 
-🚀 Siempre en constante aprendizaje, también exploro áreas como BackEnd y bases de datos, con habilidades en Firebase, NodeJs, SQL, Python y Java. Mi enfoque es ofrecer soluciones innovadoras y eficientes, trabajando en proyectos que van desde e-commerce hasta chats en tiempo real.
+🚀 Always constantly learning, I also explore areas such as BackEnd and databases, with skills in Firebase, NodeJs, SQL, Python and Java. My focus is to deliver innovative and efficient solutions, working on projects ranging from e-commerce to real-time chats.
 
-🌱 En mi tiempo libre, me gusta mejorar mis habilidades en UI/UX y probar nuevas herramientas para optimizar el desarrollo.
-
+🌱 In my spare time, I like to improve my UI/UX skills and try new tools to optimize development.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@mjbm19)
+
 
 # 💻 Tech Stack:
 ## Pricipales
