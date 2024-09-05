@@ -7,6 +7,9 @@
 🌱 In my spare time, I like to improve my UI/UX skills and try new tools to optimize development.
 ## :nerd_face: Currently working on:
 Building a **Telegram bot** to help users track their financial transactions, using **Java** for the backend and **MySQL** for data management.
+
+## :eyes: Looking for:
+Currently open to **new opportunities**! I'm seeking roles as a **FrontEnd Developer**, either in **freelance** or within a dynamic **company**. Alongside **React**, **JavaScript**, and **Astro**, I have a foundation in **Python** and **SQL**, eager to contribute to innovative projects.
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://borgesmj.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
