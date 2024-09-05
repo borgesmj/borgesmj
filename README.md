@@ -1,5 +1,5 @@
 # 💫 About Me:
-##👋 Hola! Soy Miguel Borges
+## 👋 Hola! Soy Miguel Borges
 💻 Desarrollador FrontEnd con experiencia en JavaScript, React y Astro. Desde 2023, me he enfocado en crear aplicaciones web que combinan un diseño atractivo con una excelente experiencia de usuario.
 
 🚀 Siempre en constante aprendizaje, también exploro áreas como BackEnd y bases de datos, con habilidades en Firebase, NodeJs, SQL, Python y Java. Mi enfoque es ofrecer soluciones innovadoras y eficientes, trabajando en proyectos que van desde e-commerce hasta chats en tiempo real.
