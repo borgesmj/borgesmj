@@ -11,6 +11,7 @@ Building a **Telegram bot** to help users track their financial transactions, us
 ## :eyes: Looking for:
 Currently open to **new opportunities**! I'm seeking roles as a **FrontEnd Developer**, either in **freelance** or within a dynamic **company**. Alongside **React**, **JavaScript**, and **Astro**, I have a foundation in **Python** and **SQL**, eager to contribute to innovative projects.
 ## 🌐 Socials:
+<a href="https://borgesmj.github.io/"  target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://borgesmj.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017eb0539a5ead36d5)
