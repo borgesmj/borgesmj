@@ -1,107 +1,54 @@
-# Hola, bienvenido 👋
+# 💫 About Me:
+##👋 Hola! Soy Miguel Borges
+💻 Desarrollador FrontEnd con experiencia en JavaScript, React y Astro. Desde 2023, me he enfocado en crear aplicaciones web que combinan un diseño atractivo con una excelente experiencia de usuario.
 
-![](https://github.com/borgesmj/borgesmj/blob/ES/github-banner.png)
+🚀 Siempre en constante aprendizaje, también exploro áreas como BackEnd y bases de datos, con habilidades en Firebase, NodeJs, SQL, Python y Java. Mi enfoque es ofrecer soluciones innovadoras y eficientes, trabajando en proyectos que van desde e-commerce hasta chats en tiempo real.
 
-[Go to english version](https://github.com/borgesmj/borgesmj/blob/en-US/README.md#hello-welcome)
+🌱 En mi tiempo libre, me gusta mejorar mis habilidades en UI/UX y probar nuevas herramientas para optimizar el desarrollo.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+## Pricipales
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-
-Mi nombre es **Miguel José**, soy Ingeniero Mecánico, graduado en Venezuela, en el año 2015, año en el cual tuve mi primera experiencia laboral, como Inpector QA/QC. En el año 2023 comencé a estudiar desarrollo web a tiempo, interesado por tan gran mundo y la versatilidad laboral, comienzo a estudiar FrontEnd, debido a mi fascinacion por el diseño y la interacción con el usuario.
-
-Comienzo a estudiar utilizando videos que consigo en internet y con [**FREECODECAMP**](https://www.freecodecamp.org/borgesmj19) llegando a obtener mis primeras dos [**CERTIFICACIONES**](https://github.com/borgesmj/borgesmj/tree/main#-certificaciones)
-
-Entre mis proyectos, se destacan mi [portfolio web personal](https://github.com/borgesmj/borgesmj/tree/main#-tecnoligias-utilizadas-en-mi-Portfolio-web), una version inicial con HTML y CSS estático, el cual voy versionando hasta llevarlo a la version actual, con React, React-Router-DOM, juegos como el Bingo y de Memoria, una To-Do List y un clon de Twitter. Con mi experiencia y habilidades en desarrollo FrontEnd, me considero preparado para enfrentar nuevos desafíos y proyectos en el campo de la tecnología.
-
-Siempre estoy buscando mas proyectos y ejercicios para poder ampliar mis conocimientos, asi que si tienes uno, no dudes en [**recomendarlo**](https://github.com/borgesmj/borgesmj/issues/new)
-
-## Stacks Nuevos
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/655fa1185145316d2561e96a?variant=dark)](https://roadmap.sh)
-##  Actualmente...
-
-🔭 Me encuentro enfocado en [proyectos personales](https://github.com/borgesmj?tab=repositories) con el objetivo de mejorar mis habilidades en programación y lógica. En este momento, estoy inmerso en el desarrollo de un proyecto relacionado con [mejoras de la logica de programacion realizando ejercicios prácticos de JavaScript](https://github.com/borgesmj/Javascript-Exercises).
-
-Estoy abierto a cualquier oferta laboral empresarial o proyecto freelance, me puede contactar por mi [correo electrónico](https://github.com/borgesmj/borgesmj/blob/ES/README.md#telephone-contacto)
-
-Mi curriculum Vitae lo puede ver y descargar en el siguiente [enlace](https://github.com/borgesmj/borgesmj/blob/ES/Resume/Miguel_Borges_es.pdf)
-
-# 🔝 Repositorio con las principales contribuciones
-![](https://github-contributor-stats.vercel.app/api?username=borgesmj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# Todos mis repositorios
-
-| Tipo de proyecto |        **Nombre**        |                                                                              |                                                            |
-|:----------------:|:------------------------:|:----------------------------------------------------------------------------:|------------------------------------------------------------|
-|         💻        |          sweet Bites       |                [Demo](https://github.com/borgesmj/sweet-bites)               | [Código](https://sweet-bites.co/)       |
-|         💻        |          Anime Web App        |                [Demo](https://borgesmj.github.io/web-anime-app/)               | [Código](https://github.com/borgesmj/web-anime-app)       |
-|         💻        |          Pokedex         |                [Demo](https://borgesmj.github.io/pokemon-api/)               | [Código](https://github.com/borgesmj/pokemon-api)          |
-|         💻        |      Tienda Virtual      |              [Demo](https://borgesmj.github.io/tienda-virtual/)              | [Código](https://github.com/borgesmj/tienda-virtual)       |
-|         🎮        |    Juego del Ahorcado    |            [Demo](https://borgesmj.github.io/juego-del-ahorcado/)            | [Código](https://github.com/borgesmj/juego-del-ahorcado)   |
-|        🧑‍🎓        |    Palindrome Checker    |            [Demo](https://borgesmj.github.io/palindrome-checker/)            | [Código](https://github.com/borgesmj/palindrome-checker)   |
-|        🧑‍🎓        |       Cifrado Cesar      |               [Demo](https://borgesmj.github.io/cifrado-cesar/)              | [Código](https://github.com/borgesmj/cifrado-cesar)        |
-|         💻        |         Quiz App         |                 [Demo](https://borgesmj.github.io/quiz-App/)                 | [Código](https://github.com/borgesmj/quiz-app)             |
-|         💻        |        Calculadora       |               [Demo](https://codepen.io/borgesmj/full/mdamvQE)               | [Código](https://github.com/borgesmj/calculadora)          |
-|         🎮        |     Juego de memoria     |             [Demo](https://borgesmj.github.io/juego-de-memoria/)             | [Código](https://github.com/borgesmj/juego-de-memoria)     |
-|         🎮        |        3 el linea        |                 [Demo](https://borgesmj.github.io/3enlinea/)                 | [Código](https://github.com/borgesmj/3enlinea)             |
-|         💻        |        To-do List        |                [Demo](https://borgesmj.github.io/to-do_list/)                | [Código](https://github.com/borgesmj/to-do_list )          |
-|         🎮        |           Bingo          |                   [Demo](https://borgesmj.github.io/Bingo/)                  | [Código](https://github.com/borgesmj/bingo)                |
-|        🧑‍🎓        | Ejercicios de JavaScript | [Demo](https://github.com/borgesmj/Javascript-Exercises/blob/main/README.md) | [Código](https://github.com/borgesmj/Javascript-Exercises) |
-|         💻        |       Twitter Clon       |              [Demo](https://borgesmj-twitter-clon.netlify.app/)              | [Código](https://github.com/borgesmj/twitter-clon)         |
-|         💻        |     To Do list React     |                [Demo](https://borgesmj-todo-list.netlify.app/)               |    [Código](https://github.com/borgesmj/todo-list-react)   |
- ### Leyenda:
- 💻  Aplicación web <br/> 
-🎮   Juego <br/> 
-🧑‍🎓  Educación <br/> 
-
-
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Secundarias
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesmj&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=borgesmj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesmj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-# 👨‍💻 Tecnoligias utilizadas en mi Portfolio web 
-Puede visitarlo dando click en el [**enlace**](https://borgesmj.github.io/).<br/>
-La página web fue creada utilizando `ReactJs`, y librerias tales como `React-Router-Dom` para la paginación, y tambien se utilizó `emailJs` para la pagina de contacto, la cual envia un correo directo a mi bandeja de entrada
-![image](https://github.com/borgesmj/borgesmj/assets/121818423/6fd656a0-71d3-463a-a400-b89fdb690959)
-
-
-# 📋 Certificaciones
-* [**Responsive Web Design, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/responsive-web-design)
-* [**JavaScript Algorithms and Data Structures, by FreeCodeCamp**](https://www.freecodecamp.org/certification/borgesmj19/javascript-algorithms-and-data-structures)
-* [**English level test, by EF**](https://www.efset.org/cert/uGmFbo)
-
-# 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codin_hauss)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj/) <br>
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj)<br>
-![](https://www.codewars.com/users/borgesmj/badges/micro)<br>
-
-# :telephone: Contacto
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=borgesmj19@gmail.com)
-
-
-### 🏫 Academias 
-![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-<br>
-<br>
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=borgesmj&icon=5&color=3)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
   [![Haz una donación](https://img.shields.io/badge/Puedes%20apoyar%20mi%20trabajo-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/borgesmj19)
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=borgesmj&icon=6&color=3)](https://visitcount.itsvg.in)
-
-
-
-
