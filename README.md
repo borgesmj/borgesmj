@@ -10,6 +10,9 @@ Building a **Telegram bot** to help users track their financial transactions, us
 
 ## :eyes: Looking for:
 Currently open to **new opportunities**! I'm seeking roles as a **FrontEnd Developer**, either in **freelance** or within a dynamic **company**. Alongside **React**, **JavaScript**, and **Astro**, I have a foundation in **Python** and **SQL**, eager to contribute to innovative projects.
+
+## 📌 #OpenToWork
+Currently looking for new opportunities as a FrontEnd Developer. If you're hiring or know someone who is, or some freelance work, feel free to reach out through [Linkedin](https://linkedin.com/in/borgesmj) or [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=borgesmj19@gmail.com).
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://borgesmj.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saburo.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/borgesmj) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/saburoJs) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/borgesmj) 
