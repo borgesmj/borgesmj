@@ -6,7 +6,7 @@
 
 🌱 In my spare time, I like to improve my UI/UX skills and try new tools to optimize development.
 ## :nerd_face: Currently working on:
-Building a **Telegram bot** to help users track their financial transactions, using **Java** for the backend and **MySQL** for data management.
+Buildind the version of [Sweet Bites](https://github.com/borgesmj/sweet-bites) with Next and firebase for orders management
 
 ## :eyes: Looking for:
 Currently open to **new opportunities**! I'm seeking roles as a **FrontEnd Developer**, either in **freelance** or within a dynamic **company**. Alongside **React**, **JavaScript**, and **Astro**, I have a foundation in **Python** and **SQL**, eager to contribute to innovative projects.
